@@ -1,0 +1,22 @@
+name: Idea
+description: A small change that would help you do something.
+title: "idea: "
+body:
+  - type: textarea
+    id: task
+    attributes:
+      label: What are you trying to do?
+      description: Describe the real task and where you get stuck.
+    validations:
+      required: true
+  - type: textarea
+    id: change
+    attributes:
+      label: What would help?
+      description: The smallest useful change, with an example if possible.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What have you tried?

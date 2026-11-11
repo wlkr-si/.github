@@ -1,0 +1,34 @@
+name: Bug report
+description: Something does not work as expected.
+title: "bug: "
+body:
+  - type: markdown
+    attributes:
+      value: "Use the affected project's repository. Remove credentials and personal information from examples."
+  - type: input
+    id: version
+    attributes:
+      label: Version and environment
+      description: Project version, operating system and browser or runtime.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      description: The smallest example that shows the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected result
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual result
+      description: Include a short error or screenshot if useful. Remove secrets.
+    validations:
+      required: true

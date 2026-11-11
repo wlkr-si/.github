@@ -1,11 +1,22 @@
-# WLKR Labs
+<a href="https://wlkr.si">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wlkr-si/.github/main/profile/assets/wlkr-si-lockup-dark.svg">
+    <img alt="WLKR.SI" src="https://raw.githubusercontent.com/wlkr-si/.github/main/profile/assets/wlkr-si-lockup-light.svg" width="360">
+  </picture>
+</a>
 
-**Free software. Useful technology. Biblical purpose.**
+We build open-source tools for people who build.
 
-WLKR Labs builds and maintains excellent free software, helps people gain practical access to technology, and teaches them to use and create it. Rooted in biblical faith, we put Scripture access and study through PatriBible at the center of our work.
+[Explore the studio](https://wlkr.si) · [Projects](https://wlkr.si/work) · [Principles](https://wlkr.si/principles) · [Contribute](https://github.com/wlkr-si/.github/blob/main/CONTRIBUTING.md)
 
-[PatriBible](https://patribible.com) is our flagship. Our workshop also includes [WalkLang](https://walklang.wlkrlabs.com), [OpenJob](https://openjob.dev), and [tellygrab](https://github.com/scwlkr/tellygrab).
+| Project | What it does | Start here |
+| --- | --- | --- |
+| [UI](https://github.com/wlkr-si/ui) | Components and design foundations, with a shadcn-compatible registry. | [Source](https://github.com/wlkr-si/ui#readme) |
+| [WalkLang](https://github.com/scwlkr/WalkLang) | A programming language with released compiler tooling. | [Documentation](https://walklang.wlkrlabs.com) |
+| [OpenJob](https://github.com/scwlkr/openjob) | Shared tasks for small groups, on the web and in your terminal. | [Open app](https://openjob.dev) |
+| [tellygrab](https://github.com/scwlkr/tellygrab) | A terminal workflow for edit-ready video and audio. | [Source](https://github.com/scwlkr/tellygrab#readme) |
+| [Patri Bible](https://patribible.com) | Free Scripture reading and study. | [Open reader](https://patribible.com) |
 
-WLKR Labs is an independent initiative built in Texas by Shane Walker. We are working toward becoming a nonprofit; today we have not incorporated or received 501(c)(3) recognition. Free access and source-code reuse are separate: each project's actual visibility and licensing apply.
+Projects live here and in [Shane’s workshop](https://github.com/scwlkr). Each repository sets its own license, release status and support scope.
 
-[Visit WLKR Labs](https://wlkrlabs.com).
+Independent. Built in Texas by [Shane Walker](https://github.com/scwlkr).
