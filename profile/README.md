@@ -11,6 +11,7 @@ We build open-source tools for people who build.
 
 | Project | What it does | Start here |
 | --- | --- | --- |
+| [studio-check](https://github.com/wlkr-si/studio-check) | Audit the public entry points of a GitHub organisation. | [Run it](https://github.com/wlkr-si/studio-check#run) |
 | [UI](https://github.com/wlkr-si/ui) | Components and design foundations, with a shadcn-compatible registry. | [Source](https://github.com/wlkr-si/ui#readme) |
 | [WalkLang](https://github.com/scwlkr/WalkLang) | A programming language with released compiler tooling. | [Documentation](https://walklang.wlkrlabs.com) |
 | [OpenJob](https://github.com/scwlkr/openjob) | Shared tasks for small groups, on the web and in your terminal. | [Open app](https://openjob.dev) |
