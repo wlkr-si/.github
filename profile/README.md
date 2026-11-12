@@ -11,7 +11,7 @@ We build open-source tools for people who build.
 
 | Project | What it does | Start here |
 | --- | --- | --- |
-| [studio-check](https://github.com/wlkr-si/studio-check) | Audit public repositories and compare saved reports. | [Run audit](https://studio-check.wlkr.si) |
+| [studio-check](https://github.com/wlkr-si/studio-check) | Audit public repositories and compare saved reports. | [Browser](https://studio-check.wlkr.si) · [CLI](https://github.com/wlkr-si/studio-check#run) · [MCP](https://github.com/wlkr-si/studio-check#mcp-server) |
 | [wlkr/ui](https://github.com/wlkr-si/ui) | React components, a pixel editor and a contrast checker. | [Components](https://ui.wlkr.si) · [Pixels](https://ui.wlkr.si/pixels) · [Contrast](https://ui.wlkr.si/contrast) |
 | [starter](https://github.com/wlkr-si/starter) | A static Astro starting point with real WLKR components and repeatable checks. | [Live preview](https://starter.wlkr.si) · [Use template](https://github.com/wlkr-si/starter/generate) |
 | [Phosphor](https://github.com/wlkr-si/phosphor) | Experimental terminal graphics using ordinary characters. | [Try locally](https://github.com/wlkr-si/phosphor#try-it) |
