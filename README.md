@@ -6,6 +6,7 @@ The organisation profile and default contribution files for [WLKR.SI](https://wl
 - [Contribution guide](CONTRIBUTING.md)
 - [Studio standards](docs/STANDARDS.md)
 - [Support guide](SUPPORT.md)
+- [Security reporting](SECURITY.md)
 - [Pull request template](PULL_REQUEST_TEMPLATE.md)
 - [Issue forms](.github/ISSUE_TEMPLATE)
 
