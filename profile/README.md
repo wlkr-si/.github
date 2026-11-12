@@ -11,8 +11,9 @@ We build open-source tools for people who build.
 
 | Project | What it does | Start here |
 | --- | --- | --- |
-| [studio-check](https://github.com/wlkr-si/studio-check) | Audit the public entry points of a GitHub organisation. | [Run it](https://github.com/wlkr-si/studio-check#run) |
-| [UI](https://github.com/wlkr-si/ui) | Components and design foundations, with a shadcn-compatible registry. | [Source](https://github.com/wlkr-si/ui#readme) |
+| [studio-check](https://github.com/wlkr-si/studio-check) | Audit the public entry points of a GitHub organisation. | [Run audit](https://studio-check.wlkr.si) |
+| [wlkr/ui](https://github.com/wlkr-si/ui) | Components and design foundations, with a shadcn-compatible registry. | [Explore components](https://ui.wlkr.si) |
+| [starter](https://github.com/wlkr-si/starter) | A static Astro starting point with real WLKR components and repeatable checks. | [Use template](https://github.com/wlkr-si/starter/generate) |
 | [WalkLang](https://github.com/scwlkr/WalkLang) | A programming language with released compiler tooling. | [Documentation](https://walklang.wlkrlabs.com) |
 | [OpenJob](https://github.com/scwlkr/openjob) | Shared tasks for small groups, on the web and in your terminal. | [Open app](https://openjob.dev) |
 | [tellygrab](https://github.com/scwlkr/tellygrab) | A terminal workflow for edit-ready video and audio. | [Source](https://github.com/scwlkr/tellygrab#readme) |
