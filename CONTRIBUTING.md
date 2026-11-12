@@ -16,7 +16,7 @@ For an idea, describe the task you are trying to complete and the smallest chang
 
 ## Working together
 
-Be direct and kind. Critique the work, respect people's time and keep discussions relevant. Do not post harassment, private information or credentials.
+Be direct and kind. Critique the work, respect people's time and keep discussions relevant. Do not post harassment, private information or credentials. See [working together](CODE_OF_CONDUCT.md) for conduct expectations and a private route for concerns.
 
 ## Releases
 

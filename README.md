@@ -4,6 +4,7 @@ The organisation profile and default contribution files for [WLKR.SI](https://wl
 
 - [Studio profile](profile/README.md)
 - [Contribution guide](CONTRIBUTING.md)
+- [Working together](CODE_OF_CONDUCT.md)
 - [Studio standards](docs/STANDARDS.md)
 - [Support guide](SUPPORT.md)
 - [Security reporting](SECURITY.md)
