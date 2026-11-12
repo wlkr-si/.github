@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security reporting
+    url: https://github.com/wlkr-si/.github/blob/main/SECURITY.md
+    about: Report a security issue privately.
+  - name: Using a tool
+    url: https://wlkr.si/support
+    about: Find the right project and its current support scope.
