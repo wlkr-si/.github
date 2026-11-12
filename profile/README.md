@@ -5,8 +5,6 @@
   </picture>
 </a>
 
-We build open-source tools for people who build.
-
 [Explore the studio](https://wlkr.si) · [Projects](https://wlkr.si/work) · [Principles](https://wlkr.si/principles) · [Contribute](https://wlkr.si/contribute)
 
 | Project | What it does | Start here |
