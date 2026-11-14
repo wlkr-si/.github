@@ -10,7 +10,7 @@ WLKR.SI project spaces should be useful places to build, learn and ask questions
 
 ## Raise a concern
 
-For a sensitive conduct concern, email [hello@wlkrlabs.com](mailto:hello@wlkrlabs.com), the contact published on [WLKR.SI](https://wlkr.si/about). Include the project, relevant links and a short description. Share only the personal information needed to explain what happened; do not put private reports in public issues.
+For a sensitive conduct concern, email [hello@wlkr.si](mailto:hello@wlkr.si), the contact published on [WLKR.SI](https://wlkr.si/about). Include the project, relevant links and a short description. Share only the personal information needed to explain what happened; do not put private reports in public issues.
 
 Maintainers may ask for clarification, remove disruptive content or limit participation in project spaces. Decisions depend on the situation and available evidence. There is no guaranteed response time.
 

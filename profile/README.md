@@ -13,7 +13,7 @@
 | [wlkr/ui](https://github.com/wlkr-si/ui) | React components, a pixel editor and a contrast checker. | [Components](https://ui.wlkr.si) · [Pixels](https://ui.wlkr.si/pixels) · [Contrast](https://ui.wlkr.si/contrast) · [CLI ZIP](https://github.com/wlkr-si/ui/releases/download/v0.12.0/wlkr-cli-v0.12.0.zip) |
 | [starter](https://github.com/wlkr-si/starter) | A static Astro starting point with real WLKR components and repeatable checks. | [Live preview](https://starter.wlkr.si) · [Use template](https://github.com/wlkr-si/starter/generate) |
 | [Phosphor](https://github.com/wlkr-si/phosphor) | Experimental terminal graphics using ordinary characters. | [Try locally](https://github.com/wlkr-si/phosphor#try-it) |
-| [WalkLang](https://github.com/scwlkr/WalkLang) | A programming language with released compiler tooling. | [Documentation](https://walklang.wlkrlabs.com) |
+| [WalkLang](https://github.com/scwlkr/WalkLang) | A programming language with released compiler tooling. | [Documentation](https://walklang.wlkr.si) |
 | [OpenJob](https://github.com/scwlkr/openjob) | Shared tasks for small groups, on the web and in your terminal. | [Open app](https://openjob.dev) |
 | [tellygrab](https://github.com/scwlkr/tellygrab) | A terminal workflow for edit-ready video and audio. | [Source](https://github.com/scwlkr/tellygrab#readme) |
 | [Patri Bible](https://patribible.com) | Free Scripture reading and study. | [Open reader](https://patribible.com) |
